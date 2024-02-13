@@ -7,6 +7,7 @@ namespace git_training.Controllers
         public IActionResult Index()
         {
             ViewBag.Name = "Manoj Gamage";
+            ViewBag.Id = "SSN";
             return View();
         }
     }
