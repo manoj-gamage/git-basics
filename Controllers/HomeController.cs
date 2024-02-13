@@ -26,6 +26,7 @@ public class HomeController : Controller
     {
         ViewBag.Player = "Manoj Gamage";
         ViewBag.Player = "Manoj Gamage";
+        ViewBag.Player = "Manoj Gamage";
         return View();
     }
 
