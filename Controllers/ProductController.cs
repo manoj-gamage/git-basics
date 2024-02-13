@@ -10,6 +10,7 @@ namespace git_training.Controllers
             ViewBag.Id = "SSN";
             ViewBag.Address = "9939";
             ViewBag.Name = "Manoj Gamage";
+            ViewBag.Name = "M1";
             return View();
         }
     }
