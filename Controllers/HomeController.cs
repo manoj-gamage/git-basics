@@ -25,6 +25,7 @@ public class HomeController : Controller
     public IActionResult Privacy()
     {
         ViewBag.Player = "Manoj Gamage";
+        ViewBag.Player = "Manoj Gamage";
         return View();
     }
 
