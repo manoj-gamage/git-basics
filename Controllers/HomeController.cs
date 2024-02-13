@@ -15,7 +15,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        ViewBag.Name = "Manoj Gamage";
+        ViewBag.Name = "Lahiru Liyanage";
         return View();
     }
 
