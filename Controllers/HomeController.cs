@@ -16,6 +16,7 @@ public class HomeController : Controller
     public IActionResult Index()
     {
         ViewBag.Name = "Lahiru Liyanage";
+        ViewBag.Location = "Texas";
         return View();
     }
 
