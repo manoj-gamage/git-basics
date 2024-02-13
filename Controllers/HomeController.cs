@@ -19,6 +19,7 @@ public class HomeController : Controller
         ViewBag.Location = "Texas";
         ViewBag.State = "Texas";
         ViewBag.C1 = "C1";
+        ViewBag.Name = "Lahiru Liyanage";
         return View();
     }
 
