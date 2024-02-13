@@ -29,6 +29,7 @@ public class HomeController : Controller
         ViewBag.Name = "HF-2";
         ViewBag.Name = "RB1";
         ViewBag.Name = "RB2";
+        ViewBag.Name = "RB2";
         return View();
     }
 
