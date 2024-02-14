@@ -27,7 +27,7 @@ public class HomeController : Controller
         ViewBag.Name = "M1";
         ViewBag.Name = "M2";
         ViewBag.Name = "HF-2";
-        ViewBag.Name = "HF from master";
+        ViewBag.Name = "HF from HF-3";
         return View();
     }
 
